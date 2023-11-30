@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @delaniaport
-- 👀 I’m interested in Kotlin, Java, Python
-- 🌱 I’m currently learning Kotlin, Java, Python
+- 👀 I’m interested in Java Script, Kotlin, Java, Python
+- 🌱 I’m currently learning Java Script, Kotlin, Java, Python
 
 <!---
 delaniaport/delaniaport is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
